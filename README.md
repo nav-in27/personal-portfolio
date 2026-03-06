@@ -3,6 +3,7 @@
   <h1>Naveen R's Portfolio</h1>
   <p><strong>A Product-Grade Developer Portfolio for an AI/ML Engineer</strong></p>
   
+  [![Live Site](https://img.shields.io/badge/Live_Site-Netlify-00AD9F?logo=netlify)](https://naveen-portfolio-2026.netlify.app)
   [![Next.js](https://img.shields.io/badge/Next.js-15.0-black?logo=next.js)](https://nextjs.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
   [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.0-FF0055?logo=framer)](https://www.framer.com/motion/)

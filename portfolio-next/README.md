@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Naveen R - Portfolio
+
+🚀 **Live Site**: [https://naveen-portfolio-2026.netlify.app](https://naveen-portfolio-2026.netlify.app)
+
+This is a personal portfolio website built with [Next.js](https://nextjs.org).
 
 ## Getting Started
 

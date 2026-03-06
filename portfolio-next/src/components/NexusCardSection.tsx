@@ -2,7 +2,7 @@
 
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
-import NexusCard from "./NexusCard";
+import { NexusCardContent } from "./NexusCard";
 
 export default function NexusCardSection() {
     const ref = useRef(null);
@@ -37,7 +37,7 @@ export default function NexusCardSection() {
                     animate={isInView ? { opacity: 1, y: 0, scale: 1 } : {}}
                     transition={{ duration: 0.6, delay: 0.2 }}
                 >
-                    <NexusCard />
+                    <NexusCardContent />
                 </motion.div>
             </div>
         </section>

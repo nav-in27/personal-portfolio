@@ -1,0 +1,22 @@
+﻿Create an empty project (advanced)
+
+USAGE
+  $ netlify sites:create [options]
+
+OPTIONS
+  -a, --account-slug <slug>account slug to create the project under
+  --disable-linkingcreate the project without linking it to current directory
+  --filter <app>For monorepos, specify the name of the application to run the
+       command in
+  -h, --helpdisplay help for command
+  -m, --manualforce manual CI setup.  Used --with-ci flag
+  -n, --name <name>name of project
+  --debugPrint debugging information
+  --auth <token>Netlify auth token - can be used to run this command without
+       logging in
+  -c, --with-ciinitialize CI hooks during project creation
+
+DESCRIPTION
+  Create a blank project that isn't associated with any git remote. Will link the project to the current working directory.
+
+Create a blank project that isn't associated with any git remote. Will link the project to the current working directory.

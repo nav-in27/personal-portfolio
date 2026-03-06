@@ -42,7 +42,7 @@ const socialIcons: Record<string, React.ReactNode> = {
     ),
 };
 
-function NexusCardContent() {
+export function NexusCardContent() {
     const cardRef = useRef<HTMLDivElement>(null);
     const [isHovering, setIsHovering] = useState(false);
     const mouseX = useMotionValue(0);

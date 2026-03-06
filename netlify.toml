@@ -1,0 +1,4 @@
+[build]
+  base = "portfolio-next"
+  publish = "out"
+  command = "npm run build"

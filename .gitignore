@@ -56,3 +56,9 @@ index.html
 
 # Local Netlify folder
 .netlify
+
+potfolio-next/out/
+*.txt
+.netlify/
+netlify_error.txt
+netlify_prod_deploy.txt

@@ -53,3 +53,6 @@ index.html
 .trigger
 .trigger_recalculation
 .trigger_recalc
+
+# Local Netlify folder
+.netlify

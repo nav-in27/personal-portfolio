@@ -93,6 +93,7 @@ This project abandons standard "student-developer portfolio" templates in favor 
 
 ## 📬 Contact & Links
 
+- **Live Site:** [naveen-portfolio-2026.netlify.app](https://naveen-portfolio-2026.netlify.app)
 - **LinkedIn:** [naveen-r-19a160326](https://linkedin.com/in/naveen-r-19a160326)
 - **GitHub:** [nav-in27](https://github.com/nav-in27)
 - **Email:** [naveenrenugopal@gmail.com](mailto:naveenrenugopal@gmail.com)
@@ -101,3 +102,4 @@ This project abandons standard "student-developer portfolio" templates in favor 
 <p align="center">
   <i>Designed & Built by Naveen R.</i>
 </p>
+
